@@ -16,6 +16,9 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
+         
+         
+    <!--修改测试内容-->
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
